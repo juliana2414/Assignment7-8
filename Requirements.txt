@@ -1,0 +1,5 @@
+web: gunicorn app:app
+dash==2.6.0
+pandas
+gunicorn
+
